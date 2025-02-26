@@ -1,0 +1,9 @@
+chess.com
+chess
+stockfish
+lczero_bindings @ git+https://github.com/LeelaChessZero/lc0.git@4c1f63ef5890f3bc08a45a2ac7a3cb8c12d71724
+numpy
+matplotlib
+scikit-learn
+scipy
+pandas
