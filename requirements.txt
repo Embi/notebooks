@@ -1,3 +1,6 @@
-jupyterlab-vim
 jupyterlab
 jupytext
+# jupyterlab xxtensions:
+jupyterlab-vim
+jupyterlab-spellchecker
+
