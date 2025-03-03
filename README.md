@@ -3,8 +3,9 @@ Collection of various Jupyter notebooks. This repo also defines my Jupyter
 environment, notebook flow and requirements handling...
 
 # Notebooks
-- [Blunder buster (WIP)](blunder-buster.ipynb) Trying to identify recurring
+- [Blunder buster (WIP)](blunder-buster.ipynb): trying to identify recurring
   blunders in my degenerated chess.com chess games.
+- [Recommender (WIP)](recommender.ipynb): car recommender algo design.
 
 # Initialization
 To initialize my jupyter environment on a new (Arch Linux) system, the
