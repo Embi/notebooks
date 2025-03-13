@@ -10,9 +10,7 @@ environment, notebook flow and requirements handling...
 To initialize my jupyter environment on a new (Arch Linux) system, the
 following needs to be done:
 
-1. Install following system packages
-    * jupyterlab-desktop-bin (from aur)
-2. Create `notebooks` virtual environment and install requirements 
+1. Create `notebooks` virtual environment and install requirements 
 ```
 > mkvirtualenv notebooks
 (notebooks) > pip install -r requirements.txt
@@ -33,4 +31,4 @@ To create a new notebook:
 > workon notebookXY
 (notebookXY) > pip install -r requirements/notebookXY.txt
 ```
-4. Make sure you select the new kernel when creating new notebook
+4. Make sure you select the right kernel when editing
